@@ -177,3 +177,4 @@ if st.button("Generate PDF"):
 
     except Exception as e:
         st.error(f"Error: {e}")
+st.write("Please Wait a few minutes after pressing download for download to start")
